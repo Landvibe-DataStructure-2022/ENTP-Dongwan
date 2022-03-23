@@ -6,7 +6,7 @@ int t,n;
 class Stack{
 private:
     int size=-1;
-    char arr[100];
+    int arr[100];
 public:
     void push(int x);
     int pop();
